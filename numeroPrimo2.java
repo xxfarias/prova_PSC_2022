@@ -1,5 +1,5 @@
 // Numeros primos de 1 até 1000
-public class numeroPrimo2 {
+public class quesetao1_numeroPrimo{
  
 
     static void prime_N(int N)
